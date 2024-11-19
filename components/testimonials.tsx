@@ -25,6 +25,27 @@ const testimonials = [
     content:
       "The AI solutions provided by TurkanaTech have revolutionized how we approach automation. Exceptional work!",
   },
+  {
+    name: "Ekai Isaiah",
+    role: "CEO, TechStart Kenya",
+    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    content:
+      "TurkanaTech transformed our digital presence completely. Their innovative solutions and attention to detail are unmatched.",
+  },
+  {
+    name: "Johnson Ouma",
+    role: "Founder, DataFlow Africa",
+    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
+    content:
+      "Working with TurkanaTech was a game-changer for our data analysis needs. They delivered beyond our expectations.",
+  },
+  {
+    name: "Abdi Salim",
+    role: "Director, Innovation Hub",
+    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+    content:
+      "The AI solutions provided by TurkanaTech have revolutionized how we approach automation. Exceptional work!",
+  },
 ];
 
 export function Testimonials() {

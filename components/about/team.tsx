@@ -5,10 +5,10 @@ import Image from "next/image";
 
 const team = [
   {
-    name: "John Kamau",
+    name: "Amoni Kevin",
     role: "CEO & Founder",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a",
-    bio: "Tech visionary with 15+ years of experience in digital transformation.",
+    bio: "Tech visionary with massive years of experience in digital transformation.",
   },
   {
     name: "Sarah Odhiambo",

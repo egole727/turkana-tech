@@ -8,13 +8,13 @@ const values = [
     icon: Target,
     title: "Mission",
     description:
-      "To empower businesses in Turkana and beyond through innovative digital solutions that drive growth and success.",
+      "To empower businesses in Africa and beyond through innovative digital solutions that drive growth and success.",
   },
   {
     icon: Lightbulb,
     title: "Vision",
     description:
-      "To be the leading tech company in East Africa, known for excellence in digital transformation and innovation.",
+      "To be the leading tech company in Africa, known for excellence in digital transformation and innovation.",
   },
   {
     icon: Users,

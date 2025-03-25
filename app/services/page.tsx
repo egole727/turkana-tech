@@ -10,10 +10,15 @@ export default function ServicesPage() {
       description: "Tailored software solutions designed to meet your specific business needs and challenges.",
       icon: "💻"
     },
+    // {
+    //   title: "Cloud Solutions",
+    //   description: "Comprehensive cloud services including migration, hosting, and management.",
+    //   icon: "☁️"
+    // },
     {
-      title: "Cloud Solutions",
-      description: "Comprehensive cloud services including migration, hosting, and management.",
-      icon: "☁️"
+      title: "AI Automations",
+      description: "Leverage the power of artificial intelligence to automate processes and drive efficiency.",
+      icon: "🤖"
     },
     {
       title: "IT Consulting",

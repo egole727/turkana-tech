@@ -32,7 +32,7 @@ export function AboutHero() {
             className="relative h-[400px] rounded-2xl overflow-hidden shadow-xl"
           >
             <Image
-              src="https://images.unsplash.com/photo-1522071820081-009f0129c71c"
+              src="/tech image.jpg"
               alt="TurkanaTech Team"
               fill
               className="object-cover"

@@ -4,6 +4,7 @@ import * as React from 'react';
 import * as ToastPrimitives from '@radix-ui/react-toast';
 import { cva, type VariantProps } from 'class-variance-authority';
 import { X } from 'lucide-react';
+import { createContext, useContext } from 'react';
 
 import { cn } from '@/lib/utils';
 
@@ -111,6 +112,21 @@ const ToastDescription = React.forwardRef<
   />
 ));
 ToastDescription.displayName = ToastPrimitives.Description.displayName;
+
+const ToastContext = createContext(null);
+
+export function useToast() {
+  const context = useContext(ToastContext);
+  if (!context) {
+    // For a simple implementation, return a mock toast function if no provider
+    return {
+      toast: ({ title, description, variant }: { title?: string; description?: string; variant?: string }) => {
+        alert(`${title}\n${description}`);
+      }
+    };
+  }
+  return context;
+}
 
 type ToastProps = React.ComponentPropsWithoutRef<typeof Toast>;
 

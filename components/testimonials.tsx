@@ -19,28 +19,28 @@ const testimonials = [
       "Working with TurkanaTech was a game-changer for our data analysis needs. They delivered beyond our expectations.",
   },
   {
-    name: "Amina Hassan",
-    role: "Director, Innovation Hub",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+    name: "Dr. John Ariko",
+    role: "MP, Turkana South",
+    image: "/ariko.jpg",
     content:
-      "The AI solutions provided by TurkanaTech have revolutionized how we approach automation. Exceptional work!",
+      "The technical solutions provided by TurkanaTech during creating my website were exceptional. I highly recommend them.",
   },
   {
     name: "Ekai Isaiah",
-    role: "CEO, TechStart Kenya",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+    role: "CEO, ERENEE CBO",
+    image: "/iso.jpeg",
     content:
-      "TurkanaTech transformed our digital presence completely. Their innovative solutions and attention to detail are unmatched.",
+      "TurkanaTech build us a professional and outstanding organization website. Their innovative solutions and attention to detail are unmatched.",
   },
   {
-    name: "Johnson Ouma",
-    role: "Founder, DataFlow Africa",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
+    name: "Eunice Davids",
+    role: "Founder, Egolet",
+    image: "/dummy.jpg",
     content:
       "Working with TurkanaTech was a game-changer for our data analysis needs. They delivered beyond our expectations.",
   },
   {
-    name: "Abdi Salim",
+    name: "Millicent Annie",
     role: "Director, Innovation Hub",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
     content:
